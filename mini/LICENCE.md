@@ -1,0 +1,8 @@
+WLANThermo mini
+http://wlanthermo.com/
+
+Copyright (c) 2015, 2016 Alexander Schäfer
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Germany License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/de/
+or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.

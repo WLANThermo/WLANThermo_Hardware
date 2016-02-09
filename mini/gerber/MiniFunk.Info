@@ -1,0 +1,30 @@
+CAM-Ausgabe für AktuellesProjekt Mini Funk.T3001
+Ausgabe am 25. Jan 2016, 09:39h
+AktuellesProjekt erzeugt mit TARGET 17.9.0.16 distrelec700
+Ausgabe erzeugt mit TARGET 3001! V17.9.0.16
+LIEFERANSCHRIFT:
+  
+  
+  
+  D- 
+  Tel: 
+  FAX: 
+  eMail: 
+Größe der Platine: 85 mm x 55,324375 mm
+
+Folgend die Beschreibung der erzeugten Dateien:
+
+Mini Funk.GTL = 16 = Kupfer oben L1   ( *.GTL )
+Mini Funk.GBL = 2 = Kupfer unten L2   ( *.GBL )
+Mini Funk.Tool = Bohrerliste
+Mini Funk.TXT = Durchkontaktierte Bohrungen
+Mini Funk.GKO = 23 = Platinen-Umriss   ( *.GKO )
+Mini Funk.GTS = 18 = Lötstoppmaske oben   ( *.GTS )
+Mini Funk.GBS = 4 = Lötstoppmaske unten   ( *.GBS )
+Mini Funk.GTO = 21 = Bestückungsdruck oben   ( *.GTO )
+Mini Funk.GBO = 7 = Bestückungsdruck unten   ( *.GBO )
+Mini Funk.Apr = TARGET 3001! Blendenliste
+Mini Funk.Whl = Eagle kompatible Blendenliste
+
+
+Achtung: Dünnste Bahn ist kleiner 0,150mm: (0,100 bei 30,562226 | 15,931976) auf Ebene 7
