@@ -1,0 +1,80 @@
+===========================================================================
+             Gehäuse für das WLAN-Thermometer "Mini"
+===========================================================================
+
+Variante von maloriak@gmail.com (für FDM-Drucker)
+
+Version 3.7 v. 9.2.2016
+
+// Für ein anderes Projekt habe ich ohnehin ein Gehäuse gebraucht und ich 
+// wollte OpenSCAD kennenlernen. Auf dieses Weise ist dann diese weitere 
+// Gehäusevariante für das WLAN-Thermometer "Mini" entstanden, welche auch 
+// gut für den FDM-Druck geeignet ist.
+//
+// Der Vorteil in der Verwendung von OpenSCAD ist die Parametrisierung der Gehäusedaten.
+// Veränderung sind dann sehr einfach möglich.
+// So dauert die Veränderung der Breite oder Höhe des Gehäuses, falls Veränderungen
+// der Platine oder am Display nötig sind, nur Sekunden.
+//
+// Der Deckel und der Boden sind beide in dieser SCAD-Datei enthalten, sodass das einwandfreie
+// Zusammenpassen der Teile anhand von Referenzpunkten sichergestellt ist.
+//
+// Ob der Boden oder der Deckel erzeugt wird und welche Anschlußlöcher erzeugt werden und
+// ob Vorkehrungen gegen das Warpen generiert wird, lässt sich mittels Parameter einstellen.
+//
+// Dateien habe ich alle, zum Teil mehrfach, in PLA mit den Einstellungen
+// 0.2 Schichtdicke, 20% Füllgrad, 0,8mm Wandstärke, 0,4mm unten/oben
+// gedruckt und getestet. Mein Cura-Profil habe ich im Verzeichnis Cura-Profil abgelegt.
+
+Fotos befinen sich im Unterverzeichnis Fotos und auf
+siehe http://www.grillsportverein.de/forum/threads/wlan-thermometer-mini-gehaeuse-varianten.253520/
+
+Hinweise und Changelog siehe WTM_MaloriakV37.scad
+
+Was bedeuten die Dateien?
+==========================
+
+a) Quelldatei, aus der die STL-Dateien generiert wurden:
+  SCAD/WTM_MaloriakV37.scad
+
+b) zum Selbstdrucken z.B. auf PLA-Druckern. 
+Ich habe dort *immer* Schutz gegen das Warpen, also das Hochbiegen vom 
+Drucktisch benötigt. Zusätzliche Eckchen halten die Ecken am Drucktisch fest.
+Der von z.B. Cura automatisch generierte Schutz hat nicht so gut funktioniert,
+daher habe ich ihn direkt in das Design integriert.
+
+Boden: 
+  STL_mit_Warp/WTM_Boden_V37.stl
+Deckel (eine davon):
+  STL_mit_Warp/Deckel_LMR_V37.stl
+  STL_mit_Warp/Deckel_LR_V37.stl
+  STL_mit_Warp/Deckel_M_V37.stl
+  STL_mit_Warp/Deckel_V37.stl
+
+LMR/LR/M bedeutet: Loch mitte/links/rechts
+
+c) zum Selbstdrucken oder Drucken lassen und falls kein Warpschutz notwendig:
+
+Boden: 
+  STL/WTM_Boden_V37.stl
+Deckel (eine davon):
+  STL/Deckel_LMR_V37.stl
+  STL/Deckel_LR_V37.stl
+  STL/Deckel_M_V37.stl
+  STL/Deckel_V37.stl
+
+d) eher nur zum Testen/Spielen: Beschriftungen der Sensoren (Qualität reicht zumindest
+mir nicht)
+
+Boden: 
+  STL_mit_Beschriftung_und_Warp/WTM_B_Boden_V37.stl
+Deckel:
+  STL_mit_Beschriftung_und_Warp/Deckel_M_V37.stl
+
+Falls jemand Verbesserungen/Änderungen an der Quelldatei macht, bitte 
+an mich zurückmelden, damit ich sie einbauen kann.
+  
+Viel Erfolg beim Nachrucken!
+
+  LG Maloriak
+===========================================================================
