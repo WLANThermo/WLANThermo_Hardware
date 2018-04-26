@@ -2,8 +2,6 @@ Für das WLANThermo Mini v1 sind diverse Gehäusevarianten verfügbar. Du kannst
 
 Die aktuelle Version des Mini v1 Gehäuses findest du im Ordner j3di.
 
-[Gehäuse von J3DI]()
-
 <img src="https://github.com/WLANThermo/WLANThermo_Hardware/blob/master/mini%20v1/case/j3di/Case_J3DI.jpg" alt="Gehäuse J3DI" width="500">
 <br><br/>
 
