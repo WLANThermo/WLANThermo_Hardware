@@ -1,7 +1,12 @@
-Für das WLANThermo Mini v1 sind diverse Gehäusevarianten verfügbar. Du kannst dir ein Gehäuse entweder anhand der hier hinterlegten STL-Dateien selbst drucken oder die STL-Dateien an einen Druckdienst weitergeben und es dort fertigen lassen. Eine Anleitung, wie das geht, findest du [hier](https://github.com/WLANThermo/WLANThermo_Hardware/blob/master/mini%20v1/documentation/Geh%C3%A4usebestellung_3DHubs.pdf). Als dritte Option besteht auch noch die Möglichkeit ein Gehäuse im WLANThermo-Shop zu bestellen.
+An dieser Stelle findest du die Open-Source-Inhalte zum WLANThermo Mini v1.
 
-Die aktuelle Version des Mini v1 Gehäuses findest du im Ordner j3di.
+Inhaltsverzeichnis:
+- case: beinhaltet die Druckdateien für das 3D-Druck-Gehäuse
+- bom: beinhaltet die Komponentenliste mit Lieferanten-Links
+- circuit: beinhaltet den Schaltplan der Platine und den Bestückungsaufdruck
+- documentation: beinhaltet alle Aufbauhilfen und Prozessanleitungen
+- gerber: beinhaltet die GERBER-Dateien der Platine
+- picture: beinhaltet Bilder rund ums Mini und den Dokumentationen
+- target: beinhaltet das Target-Projekt zur Platine
 
-<img src="https://github.com/WLANThermo/WLANThermo_Hardware/blob/master/mini%20v1/case/j3di/Case_J3DI.jpg" alt="Gehäuse J3DI" width="700">
-
-Bei den STL-Dateien in den anderen Ordnern handelt es sich um ältere Versionen des Gehäuses.
+Weitere Informationen zum WLANThermo Mini v1 findest du auf der [WLANThermo-Homepage](www.wlanthermo.de) oder im [WLANThermo-Forum](www.forum.wlanthermo.de).
