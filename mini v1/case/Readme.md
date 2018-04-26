@@ -5,3 +5,5 @@ Die aktuelle Version des Mini v1 Gehäuses findest du im Ordner j3di.
 <img src="https://github.com/WLANThermo/WLANThermo_Hardware/blob/master/mini%20v1/case/j3di/Case_J3DI.jpg" alt="Gehäuse J3DI" width="700">
 
 Bei den STL-Dateien in den anderen Ordnern handelt es sich um ältere Versionen des Gehäuses.
+
+Hinweis: Die in der BOM angegebenen Schrauben gelten für die Gehäusevariante aus dem Ordner j3di. Andere Gehäusevarianten benötigen u. U. andere Schrauben.
