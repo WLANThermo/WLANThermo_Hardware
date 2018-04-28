@@ -1,7 +1,7 @@
-An dieser Stelle findest du die Open-Source-Inhalte zum WLANThermo Mini v1.
+An dieser Stelle findest du die Open-Source-Inhalte zum WLANThermo Mini v2.
 
 Inhaltsverzeichnis:
-- case: beinhaltet die Druckdateien für das 3D-Druck-Gehäuse
+- case: beinhaltet den Link zu den Druckdateien für das 3D-Druck-Gehäuse
 - bom: beinhaltet die Komponentenliste mit Lieferanten-Links
 - circuit: beinhaltet den Schaltplan der Platine und den Bestückungsaufdruck
 - documentation: beinhaltet alle Aufbauhilfen und Prozessanleitungen
