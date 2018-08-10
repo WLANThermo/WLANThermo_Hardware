@@ -9,4 +9,4 @@ Inhaltsverzeichnis:
 - picture: beinhaltet Bilder rund ums Mini und den Dokumentationen
 - target: beinhaltet das Target-Projekt zur Platine
 
-Weitere Informationen zum WLANThermo Mini v1 findest du auf der [WLANThermo-Homepage](https://wlanthermo.de/) oder im [WLANThermo-Forum](https://forum.wlanthermo.de/).
+Weitere Informationen zum WLANThermo Mini v2 findest du auf der [WLANThermo-Homepage](https://wlanthermo.de/) oder im [WLANThermo-Forum](https://forum.wlanthermo.de/).
